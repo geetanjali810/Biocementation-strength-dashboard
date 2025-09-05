@@ -1,0 +1,10 @@
+sample_id,mix_id,bacteria_conc_pct,sand_pct,curing_days,temperature_c,compressive_strength_MPa
+S001,M1,5,40,7,25,6.4
+S002,M1,5,40,14,25,9.1
+S003,M1,5,40,28,25,11.8
+S004,M2,7,35,7,25,7.2
+S005,M2,7,35,14,25,10.3
+S006,M2,7,35,28,25,13.4
+S007,CTRL,0,45,7,25,5.2
+S008,CTRL,0,45,14,25,7.0
+S009,CTRL,0,45,28,25,8.5
