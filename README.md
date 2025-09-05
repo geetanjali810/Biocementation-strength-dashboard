@@ -11,6 +11,6 @@ Analyzes compressive strength of biocement samples across curing days, mix types
 Python, pandas, matplotlib, seaborn, Excel, Power BI
 
 ### Results
-![Strength vs Curing Days](biocement_strength_vs_curing.png)
+![Strength vs Curing Days](IMG_3142.png)
 
-![Strength Distribution by Mix](biocement_strength_by_mix.png)
+![Strength Distribution by Mix](img_3142.png)
